@@ -155,5 +155,3 @@ No.1: 合作, Probability is 0.819008
 No.2: 上下级, Probability is 0.116768
 No.3: 师生, Probability is 0.0448312
 ```
-
-# Relationship-extraction
